@@ -1,3 +1,3 @@
-# tutorial-network
+# Skeleton Network
 
-tutorial-net
+Skeleton Network to be reused for all the applications to build using Hyperledger Composer
